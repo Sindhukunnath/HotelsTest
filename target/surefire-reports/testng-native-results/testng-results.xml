@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="35679" started-at="2017-02-22T08:27:54Z" finished-at="2017-02-22T08:28:30Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="35679" started-at="2017-02-22T08:27:54Z" finished-at="2017-02-22T08:28:30Z">
+      <class name="com.tests.hcom.AutoSuggestTest">
+        <test-method status="PASS" signature="start()[pri:0, instance:com.tests.hcom.AutoSuggestTest@735f7ae5]" name="start" is-config="true" duration-ms="12121" started-at="2017-02-22T08:27:54Z" finished-at="2017-02-22T08:28:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="testAutoSuggest()[pri:0, instance:com.tests.hcom.AutoSuggestTest@735f7ae5]" name="testAutoSuggest" duration-ms="5434" started-at="2017-02-22T08:28:07Z" finished-at="2017-02-22T08:28:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAutoSuggest -->
+        <test-method status="PASS" signature="testSearchResultsPage()[pri:0, instance:com.tests.hcom.AutoSuggestTest@735f7ae5]" name="testSearchResultsPage" duration-ms="131" started-at="2017-02-22T08:28:12Z" finished-at="2017-02-22T08:28:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchResultsPage -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:com.tests.hcom.AutoSuggestTest@735f7ae5]" name="testLogin" duration-ms="7508" started-at="2017-02-22T08:28:12Z" finished-at="2017-02-22T08:28:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.tests.hcom.AutoSuggestTest@735f7ae5]" name="teardown" is-config="true" duration-ms="10468" started-at="2017-02-22T08:28:20Z" finished-at="2017-02-22T08:28:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.tests.hcom.AutoSuggestTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
