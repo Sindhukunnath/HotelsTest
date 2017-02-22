@@ -22,6 +22,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry kind="lib" path="C:/Users/skunnathpuliyakode/Desktop/Sindhu Import/seleniumjars/selenium-2.48.2/libs/apache-mime4j-0.6.jar"/>
 	<classpathentry kind="lib" path="C:/Users/skunnathpuliyakode/Desktop/Sindhu Import/seleniumjars/selenium-2.48.2/libs/bsh-2.0b4.jar"/>
 	<classpathentry kind="lib" path="C:/Users/skunnathpuliyakode/Desktop/Sindhu Import/seleniumjars/selenium-2.48.2/libs/cglib-nodep-2.1_3.jar"/>

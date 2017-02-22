@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="35679" started-at="2017-02-22T08:27:54Z" finished-at="2017-02-22T08:28:30Z">
+  <suite name="Command line suite" duration-ms="42894" started-at="2017-02-22T10:20:01Z" finished-at="2017-02-22T10:20:43Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="35679" started-at="2017-02-22T08:27:54Z" finished-at="2017-02-22T08:28:30Z">
+    <test name="Command line test" duration-ms="42894" started-at="2017-02-22T10:20:01Z" finished-at="2017-02-22T10:20:43Z">
       <class name="com.tests.hcom.AutoSuggestTest">
-        <test-method status="PASS" signature="start()[pri:0, instance:com.tests.hcom.AutoSuggestTest@735f7ae5]" name="start" is-config="true" duration-ms="12121" started-at="2017-02-22T08:27:54Z" finished-at="2017-02-22T08:28:07Z">
+        <test-method status="PASS" signature="start()[pri:0, instance:com.tests.hcom.AutoSuggestTest@246ae04d]" name="start" is-config="true" duration-ms="14875" started-at="2017-02-22T10:20:01Z" finished-at="2017-02-22T10:20:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- start -->
-        <test-method status="PASS" signature="testAutoSuggest()[pri:0, instance:com.tests.hcom.AutoSuggestTest@735f7ae5]" name="testAutoSuggest" duration-ms="5434" started-at="2017-02-22T08:28:07Z" finished-at="2017-02-22T08:28:12Z">
+        <test-method status="PASS" signature="testAutoSuggest()[pri:0, instance:com.tests.hcom.AutoSuggestTest@246ae04d]" name="testAutoSuggest" duration-ms="6572" started-at="2017-02-22T10:20:15Z" finished-at="2017-02-22T10:20:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAutoSuggest -->
-        <test-method status="PASS" signature="testSearchResultsPage()[pri:0, instance:com.tests.hcom.AutoSuggestTest@735f7ae5]" name="testSearchResultsPage" duration-ms="131" started-at="2017-02-22T08:28:12Z" finished-at="2017-02-22T08:28:12Z">
+        <test-method status="PASS" signature="testSearchResultsPage()[pri:0, instance:com.tests.hcom.AutoSuggestTest@246ae04d]" name="testSearchResultsPage" duration-ms="217" started-at="2017-02-22T10:20:22Z" finished-at="2017-02-22T10:20:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSearchResultsPage -->
-        <test-method status="PASS" signature="testLogin()[pri:0, instance:com.tests.hcom.AutoSuggestTest@735f7ae5]" name="testLogin" duration-ms="7508" started-at="2017-02-22T08:28:12Z" finished-at="2017-02-22T08:28:20Z">
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:com.tests.hcom.AutoSuggestTest@246ae04d]" name="testLogin" duration-ms="7433" started-at="2017-02-22T10:20:22Z" finished-at="2017-02-22T10:20:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testLogin -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.tests.hcom.AutoSuggestTest@735f7ae5]" name="teardown" is-config="true" duration-ms="10468" started-at="2017-02-22T08:28:20Z" finished-at="2017-02-22T08:28:30Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.tests.hcom.AutoSuggestTest@246ae04d]" name="teardown" is-config="true" duration-ms="13774" started-at="2017-02-22T10:20:30Z" finished-at="2017-02-22T10:20:43Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

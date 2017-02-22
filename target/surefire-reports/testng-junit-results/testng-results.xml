@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="21" started-at="2017-02-22T08:28:30Z" finished-at="2017-02-22T08:28:30Z">
+  <suite name="Command line suite" duration-ms="240" started-at="2017-02-22T10:20:44Z" finished-at="2017-02-22T10:20:44Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="21" started-at="2017-02-22T08:28:30Z" finished-at="2017-02-22T08:28:30Z">
+    <test name="Command line test" duration-ms="240" started-at="2017-02-22T10:20:44Z" finished-at="2017-02-22T10:20:44Z">
       <class name="com.tests.hcom.AppTest">
-        <test-method status="PASS" signature="testApp()[pri:0, instance:testApp(com.tests.hcom.AppTest)]" name="testApp" duration-ms="2" started-at="2017-02-22T08:28:30Z" finished-at="2017-02-22T08:28:30Z">
+        <test-method status="PASS" signature="testApp()[pri:0, instance:testApp(com.tests.hcom.AppTest)]" name="testApp" duration-ms="3" started-at="2017-02-22T10:20:44Z" finished-at="2017-02-22T10:20:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testApp -->
